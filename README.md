@@ -1,8 +1,10 @@
-# How to use the project
+# Seminar Project 18CSP103L
 
-- Clone
-- Install dependencies (npm i)
-- Get your API key and add to weatherService.js
-- Enjoy!!
+- Weather Forecaster using weather API
 
-> Leave a star :)
+
+
+
+
+> Kumar Sashwat, RA2011028010046 and Arnab Dey,  RA2011028010048
+
